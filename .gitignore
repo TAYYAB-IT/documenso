@@ -25,8 +25,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # local env files
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -50,3 +48,4 @@ yarn-error.log*
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+config.bat
